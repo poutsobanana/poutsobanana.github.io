@@ -2,6 +2,29 @@
    font-family: LemonMilk;
    src: url(LemonMilk.otf);
 }
-.button {
-font-family:LemonMilk;
+body {
+  background-color:#949494;
+}
+.title {
+  color:#5D4037; 
+  font-size:100px;
+  font-family:LemonMilk;
+  
+}
+h2 {
+  color:#71493d; 
+  font-size:50px;
+  font-family:arial;
+}
+h3 {
+  color:#71493d;
+  font-size:40px;
+  font-family:'Arial';
+}
+p {
+  color:#71493d; 
+  position:absolute;
+  bottom:0;
+  font-weight:700;
+  font-family:'Arial';
 }
