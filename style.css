@@ -2,13 +2,17 @@
    font-family: LemonMilk;
    src: url(LemonMilk.otf);
 }
+@font-face {
+   font-family: Quartzo;
+   src url(QUARTZO _ PERSONAL USE ONLY.ttf);
+}
 body {
   background-color:#949494;
 }
 .title {
   color:#5D4037; 
   font-size:100px;
-  font-family:LemonMilk;
+  font-family:Quartzo;
   
 }
 h2 {
