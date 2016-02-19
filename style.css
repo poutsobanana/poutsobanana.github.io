@@ -15,6 +15,10 @@ font-family: PF Universal Bold;
 src: url(PFUNIVERSAL-REGULAR-WEBFONT.1.TTF);
 
 }
+@font-face {
+   font-family:'Station';
+   src: url(STATION.TTF);
+}
 
 body {
   background-color:#949494;
@@ -33,7 +37,7 @@ h2 {
 h3 {
   color:#71493d;
   font-size:40px;
-  font-family:'PF Universal Bold';
+  font-family:'Station';
 }
 p {
   color:#71493d; 
