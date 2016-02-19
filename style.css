@@ -10,6 +10,11 @@
    font-family: pfuniversal-regular-webfont;
    srr:url(pfuniversal-regular-webfont.ttf);
 }
+@font-face {
+font-family: PF Universal Bold;
+src: url(PFUNIVERSAL-REGULAR-WEBFONT.1.TTF);
+
+}
 
 body {
   background-color:#949494;
@@ -28,7 +33,7 @@ h2 {
 h3 {
   color:#71493d;
   font-size:40px;
-  font-family:'pfuniversal-regular-webfont';
+  font-family:'PF Universal Bold';
 }
 p {
   color:#71493d; 
