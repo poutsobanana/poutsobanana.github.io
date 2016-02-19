@@ -1,6 +1,6 @@
 @font-face {
-   font-family: LemonMilk;
-   src: url(LemonMilk.otf);
+   font-family: 'LemonMilk';
+   src: url('LemonMilk.otf');
 }
 @font-face {
    font-family:Brushsci;
@@ -37,7 +37,7 @@ h2 {
 h3 {
   color:#71493d;
   font-size:40px;
-  font-family:FUTURIS;
+  font-family:'LemonMilk';
 }
 p {
   color:#71493d; 
