@@ -11,8 +11,8 @@
    srr:url(VGAFIXG.FON);
 }
 @font-face {
-font-family: PF Universal Bold;
-src: url(PFUNIVERSAL-REGULAR-WEBFONT.1.TTF);
+font-family: FUTURIS;
+src: url(FUTURIS.TTF);
 
 }
 @font-face {
@@ -37,7 +37,7 @@ h2 {
 h3 {
   color:#71493d;
   font-size:40px;
-  font-family:vgafixg;
+  font-family:FUTURIS;
 }
 p {
   color:#71493d; 
