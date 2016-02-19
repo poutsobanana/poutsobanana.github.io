@@ -2,6 +2,10 @@
    font-family: LemonMilk;
    src: url(LemonMilk.otf);
 }
+@font-face {
+   font-family:Brushsci;
+   src: url(BRUSHSCI.TTF);
+}
 
 body {
   background-color:#949494;
@@ -9,7 +13,7 @@ body {
 .title {
   color:#5D4037; 
   font-size:100px;
-  font-family:LemonMilk;
+  font-family:Brushsci;
   
 }
 h2 {
