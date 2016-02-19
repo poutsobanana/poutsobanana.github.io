@@ -7,8 +7,8 @@
    src: url(BRUSHSCI.TTF);
 }
 @font-face {
-   font-family: 'Vgafixg';
-   srr:url('VGAFIXG.FON');
+   font-family: Vgafixg;
+   src:url(VGAFIXG.FON);
 }
 @font-face {
 font-family: FUTURIS;
@@ -32,7 +32,7 @@ body {
 h2 {
   color:#71493d; 
   font-size:50px;
-  font-family:arial;
+  font-family:Vgafixg;
 }
 h3 {
   color:#71493d;
