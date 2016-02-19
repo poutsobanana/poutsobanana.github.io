@@ -7,8 +7,8 @@
    src: url(BRUSHSCI.TTF);
 }
 @font-face {
-   font-family: vgafixg;
-   srr:url(VGAFIXG.FON);
+   font-family: 'Vgafixg';
+   srr:url('VGAFIXG.FON');
 }
 @font-face {
 font-family: FUTURIS;
@@ -44,5 +44,5 @@ p {
   position:absolute;
   bottom:0;
   font-weight:700;
-  font-family:'Arial';
+  font-family:'Vgafixg';
 }
