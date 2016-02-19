@@ -7,8 +7,8 @@
    src: url(BRUSHSCI.TTF);
 }
 @font-face {
-   font-family: pfuniversal-regular-webfont;
-   srr:url(pfuniversal-regular-webfont.ttf);
+   font-family: vgafixg;
+   srr:url(VGAFIXG.FON);
 }
 @font-face {
 font-family: PF Universal Bold;
@@ -37,7 +37,7 @@ h2 {
 h3 {
   color:#71493d;
   font-size:40px;
-  font-family:Station;
+  font-family:vgafixg;
 }
 p {
   color:#71493d; 
