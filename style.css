@@ -16,7 +16,7 @@ src: url(PFUNIVERSAL-REGULAR-WEBFONT.1.TTF);
 
 }
 @font-face {
-   font-family:'Station';
+   font-family:Station;
    src: url(STATION.TTF);
 }
 
@@ -37,7 +37,7 @@ h2 {
 h3 {
   color:#71493d;
   font-size:40px;
-  font-family:'Station';
+  font-family:'tation;
 }
 p {
   color:#71493d; 
