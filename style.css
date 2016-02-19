@@ -6,6 +6,10 @@
    font-family:Brushsci;
    src: url(BRUSHSCI.TTF);
 }
+@font-face {
+   font-family: pfuniversal-regular-webfont;
+   srr:url(pfuniversal-regular-webfont.ttf);
+}
 
 body {
   background-color:#949494;
@@ -24,7 +28,7 @@ h2 {
 h3 {
   color:#71493d;
   font-size:40px;
-  font-family:'Arial';
+  font-family:'pfuniversal-regular-webfont';
 }
 p {
   color:#71493d; 
