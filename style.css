@@ -65,7 +65,7 @@ animation: hello .5s infinite;
   right:0;
   z-index: +1;
   background-color:#FFCA28;
- display: none;
+ 
 }
 .header {
   color: #ffcf41;
